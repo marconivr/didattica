@@ -77,7 +77,7 @@ Se l'output è:
 	
 FATTO!
 
-## VIsualizzazione deploy
+## Visualizzazione deploy
 
 Con un browser web
 
