@@ -55,6 +55,8 @@ Creare la prima pagina index.html
 
 	d:\wwwroot\htdocs\dev\surge>notepad index.html
 	
+### Deploy progetto web
+
 Pubblicarla con Surge
 
 	d:\wwwroot\htdocs\dev\surge>surge
@@ -95,6 +97,10 @@ password, ma solo confermando il progetto da pubblicare
 oppure 
 
 	D:\wwwroot\htdocs\dev\surge>surge --domain giannibellini.surge.sh
+	
+## Cancellare progetto web
+
+	D:\wwwroot\htdocs\dev\surge>surge teardown giannibellini.surge.sh
 
 ## Opzioni deploy
 
